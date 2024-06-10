@@ -3,7 +3,7 @@ Student Number: ST10449673
 This is the link to my repository: https://github.com/Bandz88/My-practicum-exam
 The purpose of the app: The app is created to tell the weather temps and the weater conditions for local residents.
 The app is only able to help local residents, so any one who isnt a local resident will find this app as useless.
-I gave the app a light purple background design. While, giving it purple button background.As i was coding, i limked my work to Github. I kept pushing it onto my Github and adding commits as i worked.
+I gave the app a light purple background design. While, giving it purple button background.As i was coding, i linked my work to Github. I kept pushing it onto my Github and adding commits as i worked.
 The flowchart:
 1. Start (circle)
 2. Press the start button to proceed forward (square)
