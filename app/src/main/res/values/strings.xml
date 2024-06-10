@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Practicum (exam)</string>
+    <string name="exit">Exit</string>
+    <string name="proceed">Proceed</string>
+    <string name="detailed_weather_information">Detailed Weather Information</string>
+    <string name="back">Back</string>
+    <string name="kzn_weather_app">KZN Weather App</string>
+    <string name="name_bandile_qwabe_student_number_st10449673">Name- Bandile Qwabe. Student Number - ST10449673</string>
+    <string name="start">Start</string>
+</resources>

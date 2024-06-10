@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/practicum_image"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/tempDay1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Temperature for Day 1 (°C)"
+        android:inputType="numberDecimal" />
+
+    <!-- Repeat the EditText for days 2 to 7 -->
+    <!-- ... -->
+
+    <EditText
+        android:id="@+id/tempDay7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Temperature for Day 7 (°C)"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/calculateButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Calculate Average" />
+
+    <TextView
+        android:id="@+id/averageTempTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Average Temperature: "
+        android:textSize="16sp"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/detailedViewButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Detailed View"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/clearButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Clear Data"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/exitButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Exit"
+        android:layout_marginTop="8dp" />
+</LinearLayout>
